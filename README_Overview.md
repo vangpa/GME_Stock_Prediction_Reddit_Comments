@@ -32,6 +32,7 @@ iii.	Text Analysis/Sentimental Analysis- using TextBlob using LSTM (Reddit comme
 **Key findings**
 
 ![image](https://user-images.githubusercontent.com/63076021/132598846-d30352ea-f331-4e0f-9fe4-faec04a7ea41.png)
+![image](https://user-images.githubusercontent.com/63076021/132598897-c33895be-4c84-40a3-b5e2-2551e627c9a0.png)
 
 In conclusion, our results show that:                                                  
 i.	Time Series Forecasting using LSTM to predict GME Open Stock Price, we use the first 60-day data to predict the 61st Open price, the predicted price is nearly same as real price, and performance metrics MSE (Mean Square Error) is acceptable (0.26).             
