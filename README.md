@@ -1,4 +1,4 @@
-GameStop Stock Price Analysis and Prediction using LSTM
+**GameStop Stock Price Analysis and Prediction using LSTM**
 
 Final Group Project for Graduate Level Machine Learning Course 
 
