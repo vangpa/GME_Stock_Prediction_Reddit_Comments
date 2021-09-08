@@ -7,6 +7,8 @@ Final Group Project for Graduate Level Machine Learning Course
 We will use two datasets: 1st GameStop Historical Stock Price and 2nd Reddit Comments Datasets. Firstly, we have the GameStop (NYSE: GME) historical stock price updated through today. You’ll be able to visualize the growth of GME from their IPO until today (this dataset will be updated continually as new data is received). And second, we have a dataset containing each Reddit post from the WSB subreddit mentioning GME over the past month.
 File names in drive: GME_Stock_History.csv and r_wallstreetbets_posts.csv
 
+![image](https://user-images.githubusercontent.com/63076021/132599181-94ed279c-1a04-4e23-9c62-aba96c1364f1.png)
+
 **Motivation**     
 
 i.	We plan to determine future stock growth based on past comments because it seems that buyers are trying to push the stock price up to bet against hedge funds.                                             
